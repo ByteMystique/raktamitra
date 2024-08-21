@@ -39,7 +39,7 @@ class _SplashState extends State<Splash> {
               const SizedBox(
                 height: 10,
               ),
-              const Text("RaktaMitra",
+              const Text("Rakta-Mitra",
               style: TextStyle(fontSize: 35),)
             ],
           ),
